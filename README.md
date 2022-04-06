@@ -1,8 +1,11 @@
 # Gematria
-Gematria calculation library for java
+Hebrew Gematria is easy to use calculation library for java.
 
-Gematria is easy to use:
+- Returns the gematria value.
+- Return small gematria valua.
 
+## Usage example
+```
 /**
  * Gematria example!
  *
@@ -23,26 +26,54 @@ public class App
     }
 }
 
-output:
+```
+
+-----
+
+output example:
 
 Orig value: dssds
+
 Gematria: 0
+
 Small Gematria: 0
-Orig value:  
-Gematria: 0
-Small Gematria: 0
+
+-----
+
 Orig value: 21432 ew frdef!@#$%
+
 Gematria: 0
+
 Small Gematria: 0
+
+-----
+
 Orig value: אבא
+
 Gematria: 4
+
 Small Gematria: 4
+
+-----
+
 Orig value: יואב נעמן
+
 Gematria: 229
+
 Small Gematria: 4
-Orig value: 
+
+-----
+
+Orig value:
+
 Gematria: 0
+
 Small Gematria: 0
+
+-----
+
 Orig value: אבגדהוזחטיכלמנסעפצקרשתץףךםן
+
 Gematria: 1775
+
 Small Gematria: 2
